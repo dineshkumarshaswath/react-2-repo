@@ -9,7 +9,7 @@ function App() {
       <div>
 
        <h1>
-        dinesh iam doing good
+        dinesh
         this was mu adu rpifukkltie amd tje tjoig as isra; we 
        </h1>
        <p>{dine[0]}</p>
